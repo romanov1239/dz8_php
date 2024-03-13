@@ -1,0 +1,4 @@
+[2024-03-11T20:07:35.567185+00:00] application_logger.ERROR: Метод actionUpdat не существует в контроллере Geekbrains\Application1\Domain\Controllers\UserController | Попытка вызова адреса /user/updat [] []
+[2024-03-11T20:30:47.323279+00:00] application_logger.ERROR: Метод actionNonExistingMethod не существует в контроллере Geekbrains\Application1\Domain\Controllers\PageController | Попытка вызова адреса / [] []
+[2024-03-11T20:31:15.004366+00:00] application_logger.ERROR: Метод actionNonExistingMethod не существует в контроллере Geekbrains\Application1\Domain\Controllers\UserController | Попытка вызова адреса /user [] []
+[2024-03-11T20:31:22.795063+00:00] application_logger.ERROR: Метод actionNonExistingMethod не существует в контроллере Geekbrains\Application1\Domain\Controllers\PageController | Попытка вызова адреса / [] []
